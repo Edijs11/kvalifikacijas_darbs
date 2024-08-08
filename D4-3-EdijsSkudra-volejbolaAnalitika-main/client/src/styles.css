@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.TeamPage tbody tr:hover {
+  background-color: #d3d3d3;
+  cursor: pointer;
+}
+
+.App {
+  font-family: sans-serif;
+}
+
+.TeamPage span {
+  text-indent: 20px;
+}
