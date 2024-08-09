@@ -3,7 +3,7 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDPEy3y04LEutqT0BF0qDZz1-2xlKl2w0I",
+  apiKey: "hello",
   authDomain: "volejbols-18ab9.firebaseapp.com",
   databaseURL: "https://volejbols-18ab9.firebaseio.com",
   projectId: "volejbols-18ab9",
